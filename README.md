@@ -1,15 +1,14 @@
-💫 Hi 👋, I'm Harsh
-Computer Science Engineering Student | Java Developer | AI Enthusiast | Aspiring Software Engineer from India 🇮🇳
+# 💫 Hi 👋, I'm Harsh 
+**Computer Science Engineering Student | Java Developer | AI Enthusiast | Aspiring Software Engineer from India 🇮🇳**
 
-🔭 Currently working on: Personal portfolio, Java projects, and AI-based applications.
-🌱 Currently learning: Data Structures & Algorithms, Full-Stack Development, Git & GitHub, and AI/ML.
-👯 Looking to collaborate on: Open-source projects, AI applications, and innovative web development projects.
-🤝 Looking for help with: Open-source contributions and advanced backend development.
-💬 Ask me about: Python, Git & GitHub, DBMS, SQL, Web Development, Hackathons, and AI.
-📫 Reach me at: harshgoyal89200@gmail.com
-🌐 LinkedIn: www.linkedin.com/in/harsh-goyal-063438348
-⚡ Fun fact: I love turning ideas into real-world projects and learning something new every day.
-
+- 🔭 **Currently working on:** Personal portfolio, Java projects, and AI-based applications.
+- 🌱 **Currently learning:** Data Structures & Algorithms, Full-Stack Development, Git & GitHub, and AI/ML.
+- 👯 **Looking to collaborate on:** Open-source projects, AI applications, and innovative web development projects.
+- 🤝 **Looking for help with:** Open-source contributions and advanced backend development.
+- 💬 **Ask me about:** Java, Git & GitHub, DBMS, SQL, Web Development, Hackathons, and AI.
+- 📫 **Reach me at:** kunalvishwa123@gmail.com
+- 🌐 **LinkedIn:** www.linkedin.com/in/kunal-kumar-vishwakarma-3b0449346
+- ⚡ **Fun fact:** I love turning ideas into real-world projects and learning something new every day.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/harsh-goyal-063438348) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshgoyal89200@gmail.com) 
